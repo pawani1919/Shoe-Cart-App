@@ -10,9 +10,9 @@
 5. Given Action Column for Editing and Deleting particular shoe detail
 6. Created form & showing existed details for Editing particular shoe detail.
 
-*used React-toastify to show Notifications
-*user React-redux to perform Store,Action,Dispatch,Render
-*added Reducer file under Redux 
-*used redux-devtools-extension to see state values while performing actions (extension with chrome)
+*used React-toastify to show Notifications*,
+*user React-redux to perform Store,Action,Dispatch,Render*,
+*added Reducer file under Redux*,
+*used redux-devtools-extension to see state values while performing actions (extension with chrome)*
 
-### ### THANK YOU! :)
+### ### THANK YOU! :smiley:
