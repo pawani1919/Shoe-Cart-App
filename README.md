@@ -11,7 +11,7 @@
 6. Created form & showing existed details for Editing particular shoe detail.
 
 *used React-toastify to show Notifications*,
-*user React-redux to perform Store,Action,Dispatch,Render*,
+*used React-redux to perform Store,Action,Dispatch,Render*,
 *added Reducer file under Redux*,
 *used redux-devtools-extension to see state values while performing actions (extension with chrome)*
 
